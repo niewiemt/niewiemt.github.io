@@ -1,0 +1,47 @@
+body{
+background-image:url("img1/cegly.gif");
+}
+section{
+width:80%;
+margin-left:10%;
+margin-right:10%;
+}
+h1{
+width:100%;
+text-align:center;
+font-size:40;
+}
+div.ja
+{
+background-image:url("img1/cos.gif");
+text-align:center;
+}
+h2{
+width:100%;
+text-align:center;
+font-size:30;
+font-family:Brush Script MT;
+}
+div.ja li{
+font-family:Brush Script MT;
+font-size:20;
+padding: 5px 0px 5px 0px;
+}
+figure{
+margin-top:10px;
+}
+#szkola:hover{
+content:url("img1/szkola2.jpg");
+}
+
+#schabowy:hover{
+content:url("img1/brokuly.jpg");
+}
+
+#wiosna:hover{
+content:url("img1/jesien.jpg");
+}
+
+figure{
+border:solid;
+}

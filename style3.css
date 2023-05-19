@@ -1,0 +1,49 @@
+body{
+background-color:beige;
+}
+
+h1{
+font-family:Aerial Black;
+color:grey;
+text-align:center;
+}
+.glowne {
+margin-left:5%;
+margin-right:5%;
+width:90%;
+background-color:aquamarine;
+padding:10px;
+
+}
+.pod{
+background-color:lightgrey;
+margin-bottom:10px;
+}
+
+hr{
+width:50%;
+margin-left:auto;
+margin-right:auto;
+}
+
+.glowne p {
+text-align:center;
+font-size:20;
+font-family:Goudy Old Style;
+margin 5px;
+padding:10px;
+}
+
+
+figure
+{width:100%;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+padding:5px;
+}
+.navbar-nav li:hover>.dropdown-menu
+{
+display:block;
+{
+
